@@ -1,0 +1,1 @@
+import{B as e,L as t,W as n,q as r,u as i}from"./index-Ctf1MH19.js";var a={style:{"text-align":`center`,"margin-top":`100px`}},o=n({__name:`403Page`,setup(n){let o=i(),s=()=>o.push(`/`);return(n,i)=>(r(),e(`div`,a,[i[0]||=t(`h1`,null,`403 无权限访问`,-1),i[1]||=t(`p`,null,`你没有权限访问该页面，请联系管理员`,-1),t(`button`,{onClick:s},`返回首页`)]))}});export{o as default};
